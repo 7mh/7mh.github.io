@@ -32,6 +32,16 @@ Click on the links on the left for information.
     </p> 
     }}
 
+#    Polling using Shared memory Inter Process Communication
+=== Polling using Shared memory Inter Process Communication
+    {{
+    <p>A C program to collect answers from multiple users and store them
+at a common shared memory.
+    <br>  
+    <a href="https://github.com/7mh/checkin_shrd_mem">Project Source.</a> 
+    </p> 
+    }}
+
 #    Digits Recognition from Google Street View House Number Dataset
 === Digits Recognition from Google Street View House Number Dataset
     {{
@@ -39,6 +49,7 @@ Click on the links on the left for information.
 scene images.
 Used pytorch framework to build neural net.
     <br>  
+#MUST update git REPOSITORY !
     <!-- <a href="https://github.com/7mh/Ext2_reader">Project Source.</a> -->
     </p> 
     }}
