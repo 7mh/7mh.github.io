@@ -18,7 +18,6 @@ Email: muhashmi0@gmail.com
 
 
 \n
-Click on the links on the left for information.
 
 == Project Work
 
@@ -54,6 +53,17 @@ Used pytorch framework to build neural net.
     </p> 
     }}
 
+#   Sentiment analysis of reviews from yelp dataset
+=== Sentiment analysis of reviews from yelp dataset
+    {{
+    <p>Designed recurrent neural net to classify customer reviews from
+yelp dataset.
+Used pytorch framework to build neural net.
+    <br>  
+#MUST update git REPOSITORY !
+    <!-- <a href="https://github.com/7mh/Ext2_reader">Project Source.</a> -->
+    </p> 
+    }}
 
 \n\n\n\n\n\n\n\n\n
 
