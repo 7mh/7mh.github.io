@@ -16,8 +16,9 @@ Email: muhashmi0@gmail.com
 - Class Room: A-017 Root Hall 
 - Office Hours: MWF 12:15-1:00, 3:00-3:15
 
-~~~
-{{<table style="width:100%">
+
+{{
+<table style="width:100%">
   <tr>
     <th>Firstname</th>
     <th>Lastname</th> 
@@ -40,7 +41,6 @@ Email: muhashmi0@gmail.com
   </tr>
 </table>
 }}
-~~~
 
 
 \n
