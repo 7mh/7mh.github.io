@@ -21,6 +21,7 @@ Email: muhashmi0@gmail.com
 
 == Project Work
 
+
 #    EXT2 File System Reader
 === EXT2 File System Reader
     {{
@@ -28,6 +29,16 @@ Email: muhashmi0@gmail.com
     The goal of this project is to understand in detail the operation and data structure of EXT2 file system.
     <br>  
     <a href="https://github.com/7mh/Ext2_reader">Project Source.</a> 
+    </p> 
+    }}
+
+#    LibFUSE TAR 
+=== Mount TAR file in Userspace 
+    {{
+    <p>A C library to  mount uncompressed TAR files using FUSE library.
+    The goal of this project is to understand the system calls forwarded by linux kernel when its navigating a file system mounted in userspace.
+    <br>  
+    <a href="https://github.com/7mh/readtar/tree/v1.1clean">Project Source.</a> 
     </p> 
     }}
 
@@ -64,6 +75,7 @@ Used pytorch framework to build neural net.
     <!-- <a href="https://github.com/7mh/Ext2_reader">Project Source.</a> -->
     </p> 
     }}
+
 
 \n\n\n\n\n\n\n\n\n
 
